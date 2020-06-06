@@ -1,7 +1,7 @@
 view: slides.pdf
 	open $<
 
-slides.pdf: $(shell find . -type f -name "*.tex") 
+slides.pdf: $(shell find . -type f -name "*.tex") references.bib
 	texi2pdf slides.tex
 	texi2pdf slides.tex
 
