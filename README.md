@@ -1,5 +1,5 @@
-# os-virtualization
-OS Virtualization Talk
+# Meet the Dockers
+*Containers, Jails, and Other Family Members*
 
 ### References
 [1]: http://phk.freebsd.dk/pubs/sane2000-jail.pdf
